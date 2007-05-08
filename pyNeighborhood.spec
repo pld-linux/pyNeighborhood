@@ -7,7 +7,7 @@ License:	GPL v2
 Group:		X11/Applications/Networking
 Source0:	http://dl.sourceforge.net/pyneighborhood/%{name}-%{version}.tar.gz
 # Source0-md5:	1cecae28bb5753f39fb0b6a9a0f5364e
-URL:		http://pyneighbourhood.sourceforge.net/
+URL:		http://pyneighborhood.sourceforge.net/
 BuildRequires:	python >= 1:2.3
 BuildRequires:	which
 Requires:	python >= 1:2.3
